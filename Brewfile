@@ -1,4 +1,5 @@
 brew "fish"
+brew "jenkins"
 brew "httpie"
 brew "mysql-client"
 brew "node"
