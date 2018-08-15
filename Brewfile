@@ -1,4 +1,5 @@
 brew "fish"
 brew "httpie"
+brew "mysql-client"
 brew "node"
 brew "python"
