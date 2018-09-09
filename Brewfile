@@ -1,3 +1,4 @@
+brew "exercism"
 brew "fish"
 brew "jenkins"
 brew "highlight"
