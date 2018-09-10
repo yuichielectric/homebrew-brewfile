@@ -1,7 +1,7 @@
 brew "exercism"
 brew "fish"
 brew "jenkins"
-brew "groovy"
+brew "groovysdk"
 brew "highlight"
 brew "httpie"
 brew "libxml2"
