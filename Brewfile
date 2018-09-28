@@ -1,6 +1,7 @@
 brew "exercism"
 brew "fish"
 brew "jenkins"
+brew "git-sizer"
 brew "gradle"
 brew "groovysdk"
 brew "highlight"
