@@ -1,3 +1,4 @@
+brew "emacs"
 brew "exercism"
 brew "fish"
 brew "jenkins"
