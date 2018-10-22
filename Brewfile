@@ -1,3 +1,4 @@
+brew "azure-cli"
 brew "emacs"
 brew "exercism"
 brew "fish"
